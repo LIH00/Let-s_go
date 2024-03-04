@@ -1,5 +1,10 @@
 # Let-s_go
 
+## 환경설정
+
+* [Ubuntu](./doc/environment/ubuntu.md)
+* [OpenVINO](./doc/environment/openvino.md)
+
 ### 조이름 : Let's goooo
 Members
 | Name           | Role |
