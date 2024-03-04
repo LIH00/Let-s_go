@@ -26,11 +26,7 @@ flow chart:
 
 ```mermaid
 flowchart TD
-
-    Camera or video source-->Object detection and classification: Child Sanctuary Sign Detection
-    Object detection and classification: Child Sanctuary Sign Detection-->Speed control algorithms and systems: Speed control during child protection detection
-    Speed control algorithms and systems: Speed control during child protection detection --> Vehicle control system: speed control
-
+    Start --> Stop
 ```
 
 1. 카메라 또는 비디오 소스:
