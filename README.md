@@ -26,7 +26,7 @@ flow chart:
 
 ```mermaid
 flowchart TD
-     Camera or video source --> Object detection and classification: Child Sanctuary Sign Detection
+     A[Camera or video source] --> B[Object detection and classification: Child Sanctuary Sign Detection]
 
 ```
 
