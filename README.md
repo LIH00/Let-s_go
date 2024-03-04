@@ -26,8 +26,9 @@ flow chart:
 
 ```mermaid
 flowchart TD
-     A[Camera or video source] --> B[Object detection and classification: Child Sanctuary Sign Detection]
-
+     A[카메라 또는 비디오 소스]  -->  B[객체 감지 및 분류: 어린이 보호구역 표지판 디텍션]
+     B[객체 감지 및 분류: 어린이 보호구역 표지판 디텍션] --> C[속도 제어 알고리즘 및 시스템: 어린이 보호구역 디텍션 시 속도 조절]
+     C[속도 제어 알고리즘 및 시스템: 어린이 보호구역 디텍션 시 속도 조절] -->  D[차량 제어 시스템 :속도 조절]
 ```
 
 1. 카메라 또는 비디오 소스:
