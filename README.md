@@ -22,6 +22,9 @@ Members
 
 ## High Level Design
 
+flowchart TD
+    Start --> Stop
+
 1. 카메라 또는 비디오 소스:
 -차량에 장착된 카메라나 비디오 소스로부터 영상을 획득합니다.
 
