@@ -96,15 +96,17 @@ yolo predict
 ## Steps to run
 
 * 프로젝트 실행방법에 대해서 기술
+* project 폴더 다운로드
+* .pt 모델 경로 설정 후 실행
 
 ```shell
-cd ~/openvino_notebooks
-source .env/bin/activate
+model1 = YOLO('/examPath/besthw2.pt')
+model2 = YOLO('/examPath/updatepj.pt')
+model3 = YOLO('/examPath/bestBchan2.pt')
 
 
 ```
-* project 폴더 다운로드
-* .pt 모델 경로 설정 후 실행
+
 
 ## Output
 
