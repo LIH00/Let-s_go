@@ -103,6 +103,8 @@ source .env/bin/activate
 
 
 ```
+* project 폴더 다운로드
+* .pt 모델 경로 설정 후 실행
 
 ## Output
 
