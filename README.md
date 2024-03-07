@@ -6,7 +6,7 @@
 * [OpenVINO](./doc/environment/openvino.md)
 * [YOLOv8](https://github.com/ultralytics/ultralytics/blob/main/README.md)
 
-### 조이름 : Let's goooo
+### 조이름 : 어린이 보호해조
 Members
 | Name           | Role |
 |-------------------------------|---------------------------|
