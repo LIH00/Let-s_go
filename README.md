@@ -103,8 +103,6 @@ yolo predict
 model1 = YOLO('/examPath/besthw2.pt')
 model2 = YOLO('/examPath/updatepj.pt')
 model3 = YOLO('/examPath/bestBchan2.pt')
-
-
 ```
 
 
