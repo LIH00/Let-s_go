@@ -106,10 +106,12 @@ source .env/bin/activate
 
 ## Output
 
-* (프로젝트 실행 화면 캡쳐)
+* 프로젝트 실행 화면    
+  
+![Alt text](sample.png)
 
 
 
 ## Appendix
 
-* (참고 자료 및 알아두어야할 사항들 기술)
+* 참고 자료 및 알아두어야할 사항들 기술
